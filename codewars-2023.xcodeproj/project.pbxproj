@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2BCA06312976F98500F235DC /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2BCA06302976F98500F235DC /* main.cpp */; };
+		2BCA06392977009F00F235DC /* 202301170813.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2BCA06372977009F00F235DC /* 202301170813.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		2BCA062D2976F98500F235DC /* codewars-2023 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "codewars-2023"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BCA06302976F98500F235DC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		2BCA06372977009F00F235DC /* 202301170813.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = 202301170813.cpp; path = "codewars-2023/202301170813.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 		2BCA06242976F98500F235DC = {
 			isa = PBXGroup;
 			children = (
+				2BCA06372977009F00F235DC /* 202301170813.cpp */,
 				2BCA062F2976F98500F235DC /* codewars-2023 */,
 				2BCA062E2976F98500F235DC /* Products */,
 			);
@@ -120,6 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2BCA06312976F98500F235DC /* main.cpp in Sources */,
+				2BCA06392977009F00F235DC /* 202301170813.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
